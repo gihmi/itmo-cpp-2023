@@ -1,0 +1,21 @@
+{
+	"Author": "Leo Tolstoy",
+	"Name": "Anna Karenina",
+	"Year": 1878,
+	"Price": 348.00,
+	"Category": 1
+}
+{
+	"Author": "Alexander Pushkin",
+	"Name": "Eugene Onegin",
+	"Year": 1833,
+	"Price": 589.00,
+	"Category": 2
+}
+{
+	"Author": "Fyodor Dostoevsky",
+	"Name": "Crime and Punishment",
+	"Year": 1866,
+	"Price": 674.00,
+	"Category": 1
+}
